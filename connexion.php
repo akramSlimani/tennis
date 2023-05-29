@@ -1,9 +1,9 @@
 <?php
 
-$dbHost="localhost";
-$dbName="akram";
-$dbUser="akram";
-$dbPassword="akram";
+$dbHost="";
+$dbName="";
+$dbUser="";
+$dbPassword="";
 
 $strConnex = "host=$dbHost dbname=$dbName user=$dbUser password=$dbPassword";
 
