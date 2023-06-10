@@ -1,6 +1,6 @@
 <div align="center">
 
-# Projet PHP - Gestion du championnat de tennis
+# Gestion du championnat de tennis
 
 </div>
 
