@@ -50,4 +50,4 @@ PostgreSQL : Système de gestion de base de données relationnelle utilisé pour
 `CSS` : Utilisé pour la mise en forme et la présentation visuelle des pages web.
 
 ## Comment contribuer :
-Si vous souhaitez contribuer à ce projet, vous pouvez cloner le dépôt GitHub et effectuer vos modifications. N'hésitez pas à proposer des améliorations, des corrections de bugs ou de nouvelles fonctionnalités en soumettant des pull requests.
+Si vous souhaitez contribuer à ce projet, vous pouvez cloner le dépôt GitHub et effectuer vos modifications. N'hésitez pas à proposer des améliorations ou de nouvelles fonctionnalités en soumettant des pull requests.
